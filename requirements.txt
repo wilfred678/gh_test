@@ -54,7 +54,6 @@ pandocfilters==1.4.3
 parso==0.8.2
 pickleshare==0.7.5
 Pillow==8.3.1
-plotly==5.2.1
 prometheus-client==0.11.0
 prompt-toolkit==3.0.19
 pycparser==2.20
@@ -73,7 +72,6 @@ seaborn==0.11.2
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.2.0
-tenacity==8.0.1
 terminado==0.11.1
 testpath==0.5.0
 tornado==6.1
